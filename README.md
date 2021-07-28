@@ -1,7 +1,16 @@
-### Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/praneethratna/git-badges)](https://badges.pufler.dev)
-
+### Hi there, I`m Praneeth 👋
+***My GitHub Stats:***
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praneethratna)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praneethratna)](https://git.io/streak-stats)
+<hr></hr>
+<p align="center">
+  <i>Let's connect and chat!.</i>
+
+  <p align="center">
+    <a href="https://twitter.com/praneethratna" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/praneethratna/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:praneethratna@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+  </p>
 
 <!--
 **praneethratna/praneethratna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

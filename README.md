@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praneethratna)](https://git.io/streak-stats)
 
 <!--

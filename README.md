@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praneeth</h1>
-<h3 align="center">An Aspiring and Passionate Machine learning developer from India</h3>
+<h3 align="center">An aspiring and passionate <b>Machine learning</b> developer from India</h3>
 
 <img align = "right" src = "https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width = 300 height = 300 />
 
@@ -14,7 +14,7 @@
 <p align = "center" >
 <img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneethratna&" style="float: left; width: 65%; margin-right: 1%; margin-bottom: 0.5em;" />
   
-<p align = "right"> ![Profile views](https://gpvc.arturio.dev/praneethratna) </p> 
+<p align = "right"><img src = "https://gpvc.arturio.dev/praneethratna"/> </p> 
 
 <hr>
 <p align="center">

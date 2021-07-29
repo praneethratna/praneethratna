@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praneeth</h1>
-<h3 align="center">An aspiring and passionate <strong>Machine</strong><strong> learning</strong> developer from India</h3>
+<h3 align="center">An aspiring and passionate Machine learning developer from India</h3>
 
 <img align = "right" src = "https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width = 300 height = 300 />
 

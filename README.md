@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praneeth</h1>
 <h3 align="center">An aspiring Machine Learning developer from India</h3>
 
-<img align = "right" src = "https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width = 300 height = 300 />
+<img align = "right" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width = 300 height = 300 />
 
 - 🌱 I’m currently learning **Natural Language Processing**
 

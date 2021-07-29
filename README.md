@@ -10,6 +10,7 @@
 - 📫 How to reach me **praneethratna@gmail.com**
 
 <p align = "center"><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneethratna&" alt="praneethratna" /></p>
+<p align = "right" ><img src = "https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" /></p>
 <hr>
 <p align="center">
   <i>Languages and Tools:</i>

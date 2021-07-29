@@ -11,7 +11,7 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=praneethratna&show_icons=true&locale=en" alt="praneethratna" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=praneethratna&" alt="praneethratna" /></p>
+<p><img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=praneethratna&" alt="praneethratna" /></p>
 
 <hr>
 

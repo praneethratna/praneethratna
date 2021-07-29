@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praneeth</h1>
 <h3 align="center">A Aspiring and passionate Machine learning developer from India</h3>
-
+<p>
 - 🌱 I’m currently learning **Natural Language Processing**
 
 - 👯 I’m looking to collaborate on **NLP Projects**
@@ -8,6 +8,7 @@
 - 💬 Ask me about **Tensorflow , Keras , Deep Learning , NLP**
 
 - 📫 How to reach me **praneethratna@gmail.com**
+<img align = "top" src = "https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width = 300 height = 300 style = "vertical-align:right" />
 <p align = "center" >
 <img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneethratna&" style="float: left; width: 65%; margin-right: 1%; margin-bottom: 0.5em;" />
 <hr>

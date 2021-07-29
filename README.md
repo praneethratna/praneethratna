@@ -6,11 +6,12 @@
 <p align="center">
   <i>Let's connect and chat!.</i>
 
-  <p align="center">
-    <a href="https://twitter.com/praneethratna" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/praneeth-ratna-9219521b5/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:praneethratna@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-  </p>
+<p align="center">
+<a href="https://twitter.com/praneeth_ratna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praneeth_ratna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/praneeth-ratna-9219521b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praneeth-ratna-9219521b5" height="30" width="40" /></a>
+<a href="https://fb.com/praneeth.ratna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="praneeth.ratna" height="30" width="40" /></a>
+<a href="https://instagram.com/praneeth.ratna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praneeth.ratna" height="30" width="40" /></a>
+</p>
 
 <!--
 **praneethratna/praneethratna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

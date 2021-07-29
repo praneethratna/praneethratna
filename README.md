@@ -8,9 +8,9 @@
 - 💬 Ask me about **Tensorflow , Keras , Deep Learning , NLP**
 
 - 📫 How to reach me **praneethratna@gmail.com**
+- <img align = "right" src = "https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width = 200 height = 200 />
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=praneethratna&" style="float: left; width: 65%; margin-right: 1%; margin-bottom: 0.5em;" />
-<img align = "right" src = "https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width = 200 height = 200 />
 </p>
 
 <hr>

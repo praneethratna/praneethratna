@@ -7,7 +7,7 @@
 - 💬 Ask me about **Tensorflow , Keras , Deep Learning , NLP**
 
 - 📫 How to reach me **praneethratna@gmail.com**
-<img align = "top" src = "https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width = 300 height = 300 style = "vertical-align:right" />
+<img align = "right" src = "https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width = 300 height = 300 style = "vertical-align:top" />
 <p align = "center" >
 <img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneethratna&" style="float: left; width: 65%; margin-right: 1%; margin-bottom: 0.5em;" />
 <hr>

@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
+- 👨‍💻 I'm an open source contributor
+
 - 👯 I’m looking to collaborate on **NLP Projects**
 
 - 💬 Ask me about **Tensorflow , Keras , Deep Learning , NLP**

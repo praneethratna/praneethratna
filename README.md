@@ -25,7 +25,7 @@
   <i>Let's connect and chat!.</i>
 
 <p align="center">
-<a href="mailto: praneethratna@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="praneethratna@gmail.com" height="36" width="42" /></a>  
+<a href="mailto: praneethratna@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="praneethratna@gmail.com" height="38" width="42" /></a>  
 <a href="https://linkedin.com/in/praneeth-ratna-9219521b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praneeth-ratna-9219521b5" height="30" width="40" /></a>
 <a href="https://fb.com/praneeth.ratna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="praneeth.ratna" height="30" width="40" /></a>
 <a href="https://instagram.com/praneeth.ratna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praneeth.ratna" height="30" width="40" /></a>

@@ -25,7 +25,7 @@
   <i>Let's connect and chat!.</i>
 
 <p align="center">
-<a href="mailto: praneethratna@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="praneethratna@gmail.com" height="30" width="42" /></a>  
+<a href="mailto: praneethratna@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="praneethratna@gmail.com" height="34" width="42" /></a>  
 <a href="https://linkedin.com/in/praneeth-ratna-9219521b5" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="praneeth-ratna-9219521b5" height="30" width="40" /></a>
 <a href="https://fb.com/praneeth.ratna" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="praneeth.ratna" height="30" width="40" /></a>
 <a href="https://instagram.com/praneeth.ratna" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="praneeth.ratna" height="30" width="30" /></a>

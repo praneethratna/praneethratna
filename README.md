@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Tensorflow , Keras , Deep Learning , NLP**
 
-- ⚡ Fun fact **Acc To a Survey, People Prefer Python Over French**
+- ⚡ Fun fact **Python Is Preferred Over French**
 
 <p align = "center" >
 <img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneethratna&" style="float: left; width: 65%; margin-right: 1%; margin-bottom: 0.5em;" />

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 👨‍💻 I'm an **Open Source Contributor**
+- 👨‍💻 I'm an **Novice Open Source Contributor**
 
 - 👯 I’m looking to collaborate on **NLP Projects**
 

@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **NLP Projects**
 
-- 💬 Ask me about **Tensorflow , Keras , Deep Learning , NLP**
+- 💬 Ask me about **Tensorflow, Keras, Deep Learning, NLP**
 
 - ⚡ Fun fact **Python Is Preferred Over French**
 

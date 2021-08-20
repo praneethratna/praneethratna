@@ -2,8 +2,6 @@
 
 <img align = "right" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width = 310 height = 310 />
 
-- 🌱 I’m currently learning **Natural Language Processing**
-
 - 👨‍💻 I'm an **Novice Open Source Contributor**
 
 - 👯 I’m looking to collaborate on **NLP Projects**

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praneeth </h1>
 
-<img align = "right" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width = 310 height = 310 />
+<img align = "right" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width = 300 height = 300 />
 
 - 👨‍💻 I'm an **Novice Open Source Contributor**
 

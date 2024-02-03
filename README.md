@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋 , I'm Praneeth </h1>
 
 - 👨‍💻 I'm an **Novice Open Source Contributor**
-- 👯 I’m looking to collaborate on **Flutter projects**
-- 💬 Ask me about **Tensorflow, Keras, Flutter, Dart**
+- 💬 Ask me about **Tensorflow, Keras, Python, Go**
 - ⚡ Fun fact **Python Is Preferred Over French**
 
 <p align = "center" >
